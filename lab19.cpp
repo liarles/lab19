@@ -1,4 +1,11 @@
 // Please include header (lab21.h) here.
+#include<iostream>
+#include<string>
+#include<ctime>
+#include<cstdlib>
+#include<iomanip>
+
+using namespace std;
 
 int main(){
 	srand(time(0));
