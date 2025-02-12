@@ -1,4 +1,3 @@
-// Please include header (lab21.h) here.
 #include<iostream>
 #include<string>
 #include<ctime>
